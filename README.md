@@ -1,2 +1,2 @@
-# alx-higher_level_programming
-ALX higher level programming which include Python,SQL,React, Node js and Java script
+Pycodestyle is now the new standard of Python style code
+ALX higher level programming
