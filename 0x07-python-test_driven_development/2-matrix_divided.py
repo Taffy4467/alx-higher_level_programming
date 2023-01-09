@@ -10,7 +10,7 @@ def matrix_divided(matrix, div):
             'div': 'div must be a number',
             'zero': 'division by zero'
 
-            if type(matrix) != list:
+            if type (matrix) != list:
             raise TypeError(errors['matrix'])
 
             row_size = None
