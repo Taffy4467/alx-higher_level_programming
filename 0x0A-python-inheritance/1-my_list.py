@@ -1,10 +1,9 @@
 #!/usr/bin/python3
-'''Module for task 1'''
-
+"""Contains `MyList` class"""
 
 class MyList(list):
-    '''Subclass of list'''
+    """Class that extends the list base class"""
 
     def print_sorted(self):
-        '''Print a list in sorted ascending'''
+        """Prints a sorted list"""
         print(sorted(self))
