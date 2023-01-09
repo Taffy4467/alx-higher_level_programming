@@ -1,3 +1,5 @@
-Pycodestyle is now the new standard of Python style code
-ALX higher level programming
-Writing python scripts
+ALX HIGHRE LEVEL PROGRAMMINIUNG USING THE FOLLOWING LANGUAGES:
+PYTHON
+SQL
+JAVA
+REACT
